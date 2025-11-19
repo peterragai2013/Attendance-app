@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AttendanceMVP",
+    "slug": "attendance-mvp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.Peter.attendance",
+      "versionCode": 1
+    }
+  }
+}
